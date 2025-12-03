@@ -1,0 +1,1 @@
+Aplikacja nie pobiera i nie zapisuje prywatnych danych.
